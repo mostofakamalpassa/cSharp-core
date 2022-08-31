@@ -6,17 +6,22 @@ using System.Threading.Tasks;
 
 namespace CsharpCore.Linkq
 {
-    internal class LocalVersiouShareState
+    public class LocalVersiouShareState
     {
         bool _done = false;
-       ;
+  
         public void Local()
         {
             new Thread(Go).Start(); // Call Go() on a new thread
            // Go(); // Call Go() on the main thread
            
             new Thread (action).Start();
+
+            Thread t = new Thread(() => Print("Hello from t!"));
+            t.Start();
         }
+
+        void Print(string message) => Console.WriteLine(message);
 
         public void Go()
         {
