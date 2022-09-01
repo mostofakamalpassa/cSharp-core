@@ -9,7 +9,7 @@ namespace CsharpCore.Linkq
     internal class AsynAwaitPrograming
     {
 
-      public async  Task<int> GetPrimesCountAsync(int start, int count)
+        public async Task<int> GetPrimesCountAsync(int start, int count)
         {
             return await Task.Run(() =>
             ParallelEnumerable.Range(start, count).Count(n =>
@@ -32,5 +32,24 @@ namespace CsharpCore.Linkq
             int answer = 21 * 2;
             return answer;
         }
+
+        static async Task<IEnumerable<int>> RangeTaskAsync(int start, int count,int delay)
+        {
+            List<int> data = new List<int>();
+            for (int i = start; i < start + count; i++)
+            {
+                await Task.Delay(delay);
+                data.Add(i);
+            }
+            return data;
+        }
+
+        async Task B()
+        {
+            for (int i = 0; i < 1000; i++)
+                await C().ConfigureAwait(false);
+        }
+
+        async Task C() {  }
     }
 }
