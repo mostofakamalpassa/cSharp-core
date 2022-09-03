@@ -1,0 +1,15 @@
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\bin\Debug\net6.0\ThreadingSystem.exe
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\bin\Debug\net6.0\ThreadingSystem.deps.json
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\bin\Debug\net6.0\ThreadingSystem.runtimeconfig.json
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\bin\Debug\net6.0\ThreadingSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\bin\Debug\net6.0\ThreadingSystem.pdb
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.csproj.AssemblyReference.cache
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.AssemblyInfoInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.AssemblyInfo.cs
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.csproj.CoreCompileInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\refint\ThreadingSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.pdb
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ThreadingSystem.genruntimeconfig.cache
+F:\Practices\C#\C#Core\CsharpCore\ThreadingSystem\obj\Debug\net6.0\ref\ThreadingSystem.dll
