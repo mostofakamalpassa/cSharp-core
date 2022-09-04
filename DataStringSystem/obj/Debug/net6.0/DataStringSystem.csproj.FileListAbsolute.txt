@@ -1,0 +1,15 @@
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\bin\Debug\net6.0\DataStringSystem.exe
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\bin\Debug\net6.0\DataStringSystem.deps.json
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\bin\Debug\net6.0\DataStringSystem.runtimeconfig.json
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\bin\Debug\net6.0\DataStringSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\bin\Debug\net6.0\DataStringSystem.pdb
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.csproj.AssemblyReference.cache
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.AssemblyInfoInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.AssemblyInfo.cs
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.csproj.CoreCompileInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\refint\DataStringSystem.dll
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.pdb
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\DataStringSystem.genruntimeconfig.cache
+F:\Practices\C#\C#Core\CsharpCore\DataStringSystem\obj\Debug\net6.0\ref\DataStringSystem.dll
