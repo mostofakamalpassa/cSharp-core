@@ -35,5 +35,29 @@ namespace DataStringSystem.StreamData
                 Console.WriteLine(s.Read(block, 0, block.Length)); // 0
             }
         }
+
+
+        public async void AsyncDemo()
+        {
+            using (Stream s = new FileStream("test1.txt", FileMode.Create))
+            {
+                byte[] block = { 6, 6, 7, 8, 9, 10 };
+                await s.WriteAsync(block, 0, block.Length); // write asynchornus file 
+                s.Position = 0;
+
+                // Read from the stream back into the block array 
+                Console.WriteLine(await s.ReadAsync(block,0, block.Length));
+            }
+        }
+
+        public void AbsolutePathOfFile()
+        {
+
+            string baseFoler = AppDomain.CurrentDomain.BaseDirectory;
+
+            string basePath = Path.Combine(baseFoler, "hello.png");
+
+            Console.WriteLine(basePath) ;
+        }
     }
 }
