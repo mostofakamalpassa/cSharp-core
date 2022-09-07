@@ -1,0 +1,15 @@
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\bin\Debug\net6.0\NetworkingSub.exe
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\bin\Debug\net6.0\NetworkingSub.deps.json
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\bin\Debug\net6.0\NetworkingSub.runtimeconfig.json
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\bin\Debug\net6.0\NetworkingSub.dll
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\bin\Debug\net6.0\NetworkingSub.pdb
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.csproj.AssemblyReference.cache
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.AssemblyInfoInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.AssemblyInfo.cs
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.csproj.CoreCompileInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.dll
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\refint\NetworkingSub.dll
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.pdb
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\NetworkingSub.genruntimeconfig.cache
+F:\Practices\C#\C#Core\CsharpCore\NetworkingSub\obj\Debug\net6.0\ref\NetworkingSub.dll
