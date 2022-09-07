@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="DataProviders\Interfaces\" />
     <Folder Include="Managers\Interfaces\" />
-    <Folder Include="Models\Business\" />
     <Folder Include="Models\DataControllers\" />
     <Folder Include="Models\DataProvieders\" />
     <Folder Include="Models\Interfaces\" />
