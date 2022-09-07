@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DataProviders\Interfaces\" />
+    <Folder Include="Managers\Interfaces\" />
+    <Folder Include="Models\Business\" />
+    <Folder Include="Models\DataControllers\" />
+    <Folder Include="Models\DataProvieders\" />
+    <Folder Include="Models\Interfaces\" />
+    <Folder Include="Startup\Images\" />
+    <Folder Include="Startup\Resources\" />
+    <Folder Include="ViewModels\Business\Collections\" />
+    <Folder Include="ViewModels\Business\Delegates\" />
+    <Folder Include="ViewModels\Business\Enums\" />
+    <Folder Include="ViewModels\Business\Interfaces\" />
+    <Folder Include="ViewModels\Commands\" />
+    <Folder Include="Views\Attached\" />
+    <Folder Include="Views\Controls\" />
+    <Folder Include="Views\Busniess\" />
+  </ItemGroup>
+
+</Project>

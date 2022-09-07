@@ -3,4 +3,5 @@ using NetworkingSub.IP;
 
 AddressAndPorts addressAndPorts = new AddressAndPorts();
 
-addressAndPorts.IPAddressAdd();
+//addressAndPorts.IPAddressAdd();
+addressAndPorts.HttpURI();

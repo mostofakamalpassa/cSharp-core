@@ -18,5 +18,16 @@ namespace NetworkingSub.IP
             Console.WriteLine(iPAddress.Equals(a2));
             Console.WriteLine(iPAddress.AddressFamily);
         }
+
+        public void HttpURI()
+        {
+            Uri info = new Uri("http://www.facebook.com");
+            Uri info1 = new Uri("http://www.twiter.com");
+
+            Console.WriteLine("host Info : "+ info.Host);
+            Console.WriteLine("host Port Nunber : "+ info.Port);
+
+            Console.WriteLine(info +" " +info1);
+        }
     }
 }
