@@ -19,9 +19,6 @@ namespace BasicWPFFoundation.ViewModels
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
-
-
-
         protected void NotifyPropertyChanged(params string[] propertyNames)
         {
             if (PropertyChanged != null)
