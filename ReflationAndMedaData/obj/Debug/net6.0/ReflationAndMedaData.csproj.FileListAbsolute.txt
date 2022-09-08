@@ -1,0 +1,15 @@
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\bin\Debug\net6.0\ReflationAndMedaData.exe
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\bin\Debug\net6.0\ReflationAndMedaData.deps.json
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\bin\Debug\net6.0\ReflationAndMedaData.runtimeconfig.json
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\bin\Debug\net6.0\ReflationAndMedaData.dll
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\bin\Debug\net6.0\ReflationAndMedaData.pdb
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.csproj.AssemblyReference.cache
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.AssemblyInfoInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.AssemblyInfo.cs
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.csproj.CoreCompileInputs.cache
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.dll
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\refint\ReflationAndMedaData.dll
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.pdb
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ReflationAndMedaData.genruntimeconfig.cache
+F:\Practices\C#\C#Core\CsharpCore\ReflationAndMedaData\obj\Debug\net6.0\ref\ReflationAndMedaData.dll

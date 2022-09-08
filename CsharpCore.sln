@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadingSystem", "Threadin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStringSystem", "DataStringSystem\DataStringSystem.csproj", "{41CD364C-E3BD-4431-B7DD-52A93E83C3B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingSub", "NetworkingSub\NetworkingSub.csproj", "{3ABA6BD0-07B3-4032-B731-D33EB06D2A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkingSub", "NetworkingSub\NetworkingSub.csproj", "{3ABA6BD0-07B3-4032-B731-D33EB06D2A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWPFFoundation", "BasicWPFFoundation\BasicWPFFoundation.csproj", "{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWPFFoundation", "BasicWPFFoundation\BasicWPFFoundation.csproj", "{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflationAndMedaData", "ReflationAndMedaData\ReflationAndMedaData.csproj", "{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
