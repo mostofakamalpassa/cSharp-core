@@ -44,6 +44,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.Kestrel.Https": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.39.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

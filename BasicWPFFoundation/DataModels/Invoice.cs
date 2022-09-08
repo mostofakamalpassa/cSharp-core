@@ -35,5 +35,7 @@ namespace BasicWPFFoundation.DataModels
             get { return updatedBy; }
             set { updatedBy = value; NotifyPropertyChanged(); }
         }
+
+        public Auditable Auditable { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
     }
 }
