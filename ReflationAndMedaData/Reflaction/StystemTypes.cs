@@ -50,5 +50,26 @@ namespace ReflationAndMedaData.Reflaction
             foreach (TypeInfo t in typeof(System.Environment).GetTypeInfo().DeclaredNestedTypes)
                 Debug.WriteLine(t.FullName);
         }
+
+
+        public void GetInterfaces()
+        {
+            foreach(Type iType in typeof(Guid).GetInterfaces())
+            {
+                Console.WriteLine(iType);
+            }
+        }
+
+        public void IsAssignable()
+        {
+            object obj = Guid.NewGuid();
+            Type targetType = typeof(IFormattable);
+
+            bool isTrue = obj is IFormattable;
+            bool isAlsoTrue = targetType.IsInstanceOfType(obj);
+
+            Type target = typeof(IComparable), source = typeof(string);
+            Console.WriteLine(target.IsAssignableFrom(source));
+        }
     }
 }

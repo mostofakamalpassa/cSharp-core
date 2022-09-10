@@ -4,4 +4,6 @@ using ReflationAndMedaData.Reflaction;
 
 StystemTypes stystemTypes = new StystemTypes();
 
-stystemTypes.DataTypes();
+//stystemTypes.DataTypes();
+//stystemTypes.GetInterfaces();
+stystemTypes.IsAssignable();
