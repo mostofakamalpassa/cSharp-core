@@ -25,5 +25,7 @@ namespace DynamicProgramming.DynamicProg
             return (T)result;
 
         }
+
+        static double Mean(double x, double y) => (x + y) / 2;
     }
 }
