@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Practices\\C#\\C#Core\\CsharpCore\\DataStringSystem\\DataStringSystem.csproj",
+      "projectUniqueName": "D:\\BasicC#\\cSharp-core\\DataStringSystem\\DataStringSystem.csproj",
       "projectName": "DataStringSystem",
-      "projectPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\DataStringSystem\\DataStringSystem.csproj",
+      "projectPath": "D:\\BasicC#\\cSharp-core\\DataStringSystem\\DataStringSystem.csproj",
       "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-      "outputPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\DataStringSystem\\obj\\",
+      "outputPath": "D:\\BasicC#\\cSharp-core\\DataStringSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

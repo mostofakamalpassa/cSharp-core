@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\CsharpCore.csproj": {}
+    "D:\\BasicC#\\cSharp-core\\CsharpCore\\CsharpCore.csproj": {}
   },
   "projects": {
-    "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\CsharpCore.csproj": {
+    "D:\\BasicC#\\cSharp-core\\CsharpCore\\CsharpCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\CsharpCore.csproj",
+        "projectUniqueName": "D:\\BasicC#\\cSharp-core\\CsharpCore\\CsharpCore.csproj",
         "projectName": "CsharpCore",
-        "projectPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\CsharpCore.csproj",
+        "projectPath": "D:\\BasicC#\\cSharp-core\\CsharpCore\\CsharpCore.csproj",
         "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-        "outputPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\obj\\",
+        "outputPath": "D:\\BasicC#\\cSharp-core\\CsharpCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

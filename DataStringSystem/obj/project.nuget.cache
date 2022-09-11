@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+j5g3zGnfMtzKqOCBD0Vo0qYBnqsQYJexlobIt5QTUJ0HU/2VPnjOH/4UTO53mMNR1kUDseTHbagM6fA6lzvA==",
+  "dgSpecHash": "nR1FcQ3iuS+4XlLFzBFNJQBIm01dXpXWJVj/+rWik2vmieYr+tMbimfumuhlZlv5qhk3Bx8g+vp2BwSUFKj4Kw==",
   "success": true,
-  "projectFilePath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\DataStringSystem\\DataStringSystem.csproj",
+  "projectFilePath": "D:\\BasicC#\\cSharp-core\\DataStringSystem\\DataStringSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

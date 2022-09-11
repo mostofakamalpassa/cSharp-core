@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Practices\\C#\\C#Core\\CsharpCore\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
+      "projectUniqueName": "D:\\BasicC#\\cSharp-core\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
       "projectName": "BasicWPFFoundation",
-      "projectPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
+      "projectPath": "D:\\BasicC#\\cSharp-core\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
       "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-      "outputPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\BasicWPFFoundation\\obj\\",
+      "outputPath": "D:\\BasicC#\\cSharp-core\\BasicWPFFoundation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

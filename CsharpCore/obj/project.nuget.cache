@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDLPdIUXddNfekpg/c60B8Mf31Diq6WkJjsf1IpWDG+vCCk1Fs7P7J+OpkBHza74Lh9t6rSY3juzuOZg/nlmZQ==",
+  "dgSpecHash": "rriRAPFJWxVxV4qF0EOkzBZEuGTlwjsVZWbjrSyQMnq2g0+G+67kb9rIwXCRRH9xv2xk/SPK/H/wSmJCKCbqZA==",
   "success": true,
-  "projectFilePath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\CsharpCore\\CsharpCore.csproj",
+  "projectFilePath": "D:\\BasicC#\\cSharp-core\\CsharpCore\\CsharpCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

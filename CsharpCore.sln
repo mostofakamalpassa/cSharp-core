@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkingSub", "Networking
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWPFFoundation", "BasicWPFFoundation\BasicWPFFoundation.csproj", "{06D82247-1F42-4D15-BBA9-28DFF5B0C23E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflationAndMedaData", "ReflationAndMedaData\ReflationAndMedaData.csproj", "{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflationAndMedaData", "ReflationAndMedaData\ReflationAndMedaData.csproj", "{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{BF5634B7-D2D5-4D38-B858-0F9FAB851032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D4F8C8-2D92-42AB-8889-27F92B61BAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5634B7-D2D5-4D38-B858-0F9FAB851032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5634B7-D2D5-4D38-B858-0F9FAB851032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5634B7-D2D5-4D38-B858-0F9FAB851032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5634B7-D2D5-4D38-B858-0F9FAB851032}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

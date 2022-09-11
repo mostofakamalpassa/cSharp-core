@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\ReflationAndMedaData.csproj": {}
+    "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\ReflationAndMedaData.csproj": {}
   },
   "projects": {
-    "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\ReflationAndMedaData.csproj": {
+    "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\ReflationAndMedaData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
+        "projectUniqueName": "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
         "projectName": "ReflationAndMedaData",
-        "projectPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
+        "projectPath": "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
         "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-        "outputPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\obj\\",
+        "outputPath": "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

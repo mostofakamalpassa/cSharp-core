@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wv8S29icXmIA4AjH9zJQ+81KZ8/YGXiiU24k6ufZ/dOMV2ffXSfn9qFTPpjYsEpRn/7Nuo+ddjttYGNsIWiKqw==",
+  "dgSpecHash": "x2f98qxXQRPqpWTsyIBwWqXGshrhB9QUqMXwPsl4QiftQQBTiyTD/pwsT0QwuUJxtws7jHlFRzw5BkE/A7DCPw==",
   "success": true,
-  "projectFilePath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
+  "projectFilePath": "D:\\BasicC#\\cSharp-core\\ReflationAndMedaData\\ReflationAndMedaData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

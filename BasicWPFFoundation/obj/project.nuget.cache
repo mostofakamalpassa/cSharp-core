@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XnmZFtgGKIHq74oxS7x7iKXh7ImsS3CsJVvJncqKwEY7OEnPri4GRS6PGctyKYroszLurfP61ok+h2GPgjpQHA==",
+  "dgSpecHash": "Sg57rNwSkV+GaVtyU8obOIuDAn2q7B5XssI01trv+D++adQSbhTMoX/QaI+1ZShyqqSjSuioRIh+dIxcNlKNtg==",
   "success": true,
-  "projectFilePath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
+  "projectFilePath": "D:\\BasicC#\\cSharp-core\\BasicWPFFoundation\\BasicWPFFoundation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

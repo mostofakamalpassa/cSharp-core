@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A1Uc8mHRc/woTYJvpJQTIxKtWMUDgXLXmwav62gXjVGMRzN9QCAG93h+mcIIGNDZHF5PNqUaNzf06vT07kYDLw==",
+  "dgSpecHash": "AOicQJM3cwrRre5jJM1XqvlQ/XXCkwRE8ZwpoyB0+z6gLswpxl5jpa1L+wWO6tqZiMnG3oArT6PVZc4hkGqNJA==",
   "success": true,
-  "projectFilePath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\NetworkingSub\\NetworkingSub.csproj",
+  "projectFilePath": "D:\\BasicC#\\cSharp-core\\NetworkingSub\\NetworkingSub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mostofa kamal\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Mostofa kamal\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",

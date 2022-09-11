@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ThreadingSystem\\ThreadingSystem.csproj",
+      "projectUniqueName": "D:\\BasicC#\\cSharp-core\\ThreadingSystem\\ThreadingSystem.csproj",
       "projectName": "ThreadingSystem",
-      "projectPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ThreadingSystem\\ThreadingSystem.csproj",
+      "projectPath": "D:\\BasicC#\\cSharp-core\\ThreadingSystem\\ThreadingSystem.csproj",
       "packagesPath": "C:\\Users\\Mostofa kamal\\.nuget\\packages\\",
-      "outputPath": "F:\\Practices\\C#\\C#Core\\CsharpCore\\ThreadingSystem\\obj\\",
+      "outputPath": "D:\\BasicC#\\cSharp-core\\ThreadingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
